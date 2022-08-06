@@ -1,2 +1,3 @@
 .idea
-ALoLearn/static/
+static
+__pycache__
